@@ -1,4 +1,4 @@
-# vumele-customer
+# webflow-nuxt-ssr-boilerplate
 
 ## Build Setup
 
