@@ -46,7 +46,6 @@ export default {
     '@nuxtjs/eslint-module'
   ],
 
-
   generate: {
     fallback: true
   },
